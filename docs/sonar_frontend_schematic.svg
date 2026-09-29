@@ -1,0 +1,333 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 1770" font-family="Arial, Helvetica, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowYTU2NGY3YS0zY2NjLTRjNmItOGJiNi00MTliYWRmNmMwOWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCb5WlBEPxgokda09Ohyio4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxMzNmZTdhNC0yN2M2LTQxZTItYmNlMy1mYTU0YWQwZDk4ZjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNosxWtOqQuEklI5vDlQZazEQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkjI/9Ve9LMo2DM3R9uVSpOgyUAWkbTi05qoXQUQ9MWKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJVhkgbHAAV57hWZXNutMxsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCxEm18h6NzH6vT4BCgOXf8NNJEeBJeZUxEdRCqpzpK/WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBipZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBhNTY0ZjdhLTNjY2MtNGM2Yi04YmI2LTQxOWJhZGY2YzA5ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjgyYjNjYmM4LTlkMDUtNGM5Ni1iNmMyLTBlZGM3NTJlMmFkMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCSMj/1V70syjYMzdH25VKk6DJQBaRtOLTmqhdBRD0xYqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggLKzyj6lHD9sVZUavSwOvmojza0vA6nipaHcp3t04ueqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggWkgNldx8m8XP7TNyIWFlp7ZIarTY1FWZY2BME1K3+IN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHC+L2GCnFpt3N1k7AIveWL0TDRHl3iP4nS8iByursZHtGF1hWYQ/hA7aVEavexVPiqJtvtpUc/HPpoGRWpInNQ=</c2pa:manifest></metadata>
+<rect width="960" height="1770" fill="#fafaf7"/>
+<text x="480.0" y="40" font-size="24" text-anchor="middle" font-weight="bold" fill="#222">Adaptive sonar transmitter: analog front end</text>
+<text x="480.0" y="64" font-size="14" text-anchor="middle" font-weight="bold" fill="#8e2a20">All grounds (GND) are ONE common node, including the FPGA board GND</text>
+<rect x="15" y="85" width="930" height="380" rx="12" fill="#fff" stroke="#ccc"/>
+<text x="35" y="115" font-size="18" text-anchor="start" font-weight="bold" fill="#222">A.  8-bit R2R DAC   (R = 1 kΩ, 2R = two matched 1 kΩ in series)</text>
+<line x1="110" y1="180" x2="110" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="110" y1="294.5" x2="110" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="102" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="124" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="110" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="110" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[0]</text>
+<circle cx="110" cy="365" r="4" fill="#222"/>
+<line x1="110" y1="365" x2="138.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="182.0" y1="365" x2="210" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="138.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="160.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="210" y1="180" x2="210" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="210" y1="294.5" x2="210" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="202" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="224" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="210" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="210" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[1]</text>
+<circle cx="210" cy="365" r="4" fill="#222"/>
+<line x1="210" y1="365" x2="238.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="282.0" y1="365" x2="310" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="238.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="260.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="310" y1="180" x2="310" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="310" y1="294.5" x2="310" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="302" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="324" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="310" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="310" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[2]</text>
+<circle cx="310" cy="365" r="4" fill="#222"/>
+<line x1="310" y1="365" x2="338.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="382.0" y1="365" x2="410" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="338.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="360.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="410" y1="180" x2="410" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="410" y1="294.5" x2="410" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="402" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="424" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="410" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="410" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[3]</text>
+<circle cx="410" cy="365" r="4" fill="#222"/>
+<line x1="410" y1="365" x2="438.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="482.0" y1="365" x2="510" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="438.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="460.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="510" y1="180" x2="510" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="510" y1="294.5" x2="510" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="502" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="524" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="510" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="510" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[4]</text>
+<circle cx="510" cy="365" r="4" fill="#222"/>
+<line x1="510" y1="365" x2="538.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="582.0" y1="365" x2="610" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="538.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="560.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="610" y1="180" x2="610" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="610" y1="294.5" x2="610" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="602" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="624" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="610" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="610" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[5]</text>
+<circle cx="610" cy="365" r="4" fill="#222"/>
+<line x1="610" y1="365" x2="638.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="682.0" y1="365" x2="710" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="638.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="660.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="710" y1="180" x2="710" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="710" y1="294.5" x2="710" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="702" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="724" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="710" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="710" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[6]</text>
+<circle cx="710" cy="365" r="4" fill="#222"/>
+<line x1="710" y1="365" x2="738.0" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="782.0" y1="365" x2="810" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="738.0" y="357" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="760.0" y="351" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R</text>
+<line x1="810" y1="180" x2="810" y2="250.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="810" y1="294.5" x2="810" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="802" y="250.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="824" y="276.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">2R</text>
+<circle cx="810" cy="175" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="810" y="160" font-size="13" text-anchor="middle" font-weight="bold" fill="#8e2a20">r2r[7]</text>
+<circle cx="810" cy="365" r="4" fill="#222"/>
+<text x="110" y="143" font-size="12" text-anchor="middle" font-weight="normal" fill="#666">LSB</text>
+<text x="810" y="143" font-size="12" text-anchor="middle" font-weight="normal" fill="#666">MSB</text>
+<line x1="110" y1="365" x2="60" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="60" y1="365" x2="60" y2="378.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="60" y1="422.0" x2="60" y2="435" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="52" y="378.0" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="46" y="404.0" font-size="13" text-anchor="end" font-weight="bold" fill="#222">2R</text>
+<line x1="60" y1="435" x2="60" y2="443" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="48" y1="443" x2="72" y2="443" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="53" y1="448" x2="67" y2="448" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="57" y1="453" x2="63" y2="453" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="810" y1="365" x2="870" y2="365" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="874" y="370" font-size="14" text-anchor="start" font-weight="bold" fill="#222">→ V_DAC</text>
+<text x="480" y="445" font-size="11" text-anchor="middle" font-weight="normal" fill="#666">FPGA pins r2r[0..7] from edge_top (IOB registered). Put the best-matched resistors on the r2r[7], r2r[6] legs and the R's next to them.</text>
+<rect x="15" y="485" width="930" height="470" rx="12" fill="#fff" stroke="#ccc"/>
+<text x="35" y="515" font-size="18" text-anchor="start" font-weight="bold" fill="#222">B.  Buffer + 2nd-order MFB low-pass filter (fc ≈ 760 kHz), one NE5532</text>
+<text x="60" y="777" font-size="14" text-anchor="middle" font-weight="bold" fill="#222">V_DAC</text>
+<line x1="40" y1="785" x2="120" y2="785" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="120" cy="785" r="4" fill="#222"/>
+<line x1="120" y1="785" x2="120" y2="821.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="120" y1="829.0" x2="120" y2="865" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="106" y1="821.0" x2="134" y2="821.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="106" y1="829.0" x2="134" y2="829.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="140" y="830.0" font-size="13" text-anchor="start" font-weight="bold" fill="#222">150 pF</text>
+<text x="140" y="845.0" font-size="11" text-anchor="start" font-weight="normal" fill="#666">(100–180 pF OK)</text>
+<line x1="120" y1="865" x2="120" y2="873" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="108" y1="873" x2="132" y2="873" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="113" y1="878" x2="127" y2="878" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="117" y1="883" x2="123" y2="883" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="120" y1="785" x2="181.0" y2="785" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="189.0" y1="785" x2="250" y2="785" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="181.0" y1="771" x2="181.0" y2="799" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<path d="M193.0,771 Q187.0,785 193.0,799" fill="none" stroke="#222" stroke-width="3"/>
+<text x="173.0" y="769" font-size="14" text-anchor="middle" font-weight="bold" fill="#222">+</text>
+<text x="185.0" y="759" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">1 µF</text>
+<text x="185.0" y="817" font-size="11" text-anchor="middle" font-weight="normal" fill="#666">+ toward ladder</text>
+<circle cx="260" cy="785" r="4" fill="#222"/>
+<line x1="250" y1="785" x2="260" y2="785" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="260" y1="785" x2="260" y2="808.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="260" y1="852.0" x2="260" y2="875" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="252" y="808.0" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="274" y="834.0" font-size="13" text-anchor="start" font-weight="bold" fill="#222">100 kΩ</text>
+<line x1="260" y1="875" x2="260" y2="883" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="248" y1="883" x2="272" y2="883" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="253" y1="888" x2="267" y2="888" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="257" y1="893" x2="263" y2="893" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<polygon points="330,727 330,807 410,767" fill="#eef4ff" stroke="#222" stroke-width="2.2"/>
+<text x="342" y="755" font-size="18" text-anchor="start" font-weight="bold" fill="#222">−</text>
+<text x="342" y="791" font-size="18" text-anchor="start" font-weight="bold" fill="#222">+</text>
+<text x="360" y="772" font-size="12" text-anchor="start" font-weight="bold" fill="#24528d">A  (buffer)</text>
+<text x="324" y="743" font-size="11" text-anchor="end" font-weight="normal" fill="#b5641a">2</text>
+<text x="324" y="801" font-size="11" text-anchor="end" font-weight="normal" fill="#b5641a">3</text>
+<text x="416" y="759" font-size="11" text-anchor="start" font-weight="normal" fill="#b5641a">1</text>
+<line x1="260" y1="785" x2="300" y2="785" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<polyline points="300,785 300,785 330,785" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<line x1="410" y1="767" x2="440" y2="767" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="440" cy="767" r="4" fill="#222"/>
+<polyline points="440,767 440,692 310,692 310,749 330,749" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="380" y="685" font-size="11" text-anchor="middle" font-weight="normal" fill="#666">output tied to − input (gain = 1)</text>
+<line x1="440" y1="767" x2="478.0" y2="767" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="522.0" y1="767" x2="560" y2="767" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="478.0" y="759" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="500.0" y="753" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R1 2 kΩ</text>
+<circle cx="560" cy="767" r="4" fill="#222"/>
+<line x1="560" y1="767" x2="560" y2="818.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="560" y1="826.0" x2="560" y2="877" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="546" y1="818.0" x2="574" y2="818.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="546" y1="826.0" x2="574" y2="826.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="580" y="827.0" font-size="13" text-anchor="start" font-weight="bold" fill="#222">470 pF</text>
+<text x="580" y="842.0" font-size="11" text-anchor="start" font-weight="normal" fill="#666">C1 to GND</text>
+<line x1="560" y1="877" x2="560" y2="885" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="548" y1="885" x2="572" y2="885" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="553" y1="890" x2="567" y2="890" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="557" y1="895" x2="563" y2="895" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<polygon points="710,745 710,825 790,785" fill="#eef4ff" stroke="#222" stroke-width="2.2"/>
+<text x="722" y="773" font-size="18" text-anchor="start" font-weight="bold" fill="#222">−</text>
+<text x="722" y="809" font-size="18" text-anchor="start" font-weight="bold" fill="#222">+</text>
+<text x="740" y="790" font-size="12" text-anchor="start" font-weight="bold" fill="#24528d">B (filter)</text>
+<text x="704" y="761" font-size="11" text-anchor="end" font-weight="normal" fill="#b5641a">6</text>
+<text x="704" y="819" font-size="11" text-anchor="end" font-weight="normal" fill="#b5641a">5</text>
+<text x="796" y="777" font-size="11" text-anchor="start" font-weight="normal" fill="#b5641a">7</text>
+<line x1="560" y1="767" x2="598.0" y2="767" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="642.0" y1="767" x2="680" y2="767" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="598.0" y="759" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="620.0" y="753" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R2 470 Ω</text>
+<polyline points="680,767 680,767 710,767" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="680" cy="767" r="4" fill="#222"/>
+<polyline points="710,803 695,803 695,833" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<line x1="695" y1="833" x2="695" y2="841" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="683" y1="841" x2="707" y2="841" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="688" y1="846" x2="702" y2="846" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="692" y1="851" x2="698" y2="851" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="790" y1="785" x2="820" y2="785" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="820" cy="785" r="4" fill="#222"/>
+<polyline points="560,767 560,617" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<line x1="560" y1="617" x2="668.0" y2="617" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="712.0" y1="617" x2="820" y2="617" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="668.0" y="609" width="44" height="16" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="690.0" y="603" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">R3 2 kΩ</text>
+<polyline points="820,617 820,785" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<polyline points="680,767 680,692" fill="none" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<circle cx="680" cy="767" r="4" fill="#222"/>
+<line x1="680" y1="692" x2="746.0" y2="692" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="754.0" y1="692" x2="820" y2="692" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="746.0" y1="678" x2="746.0" y2="706" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="754.0" y1="678" x2="754.0" y2="706" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="750.0" y="666" font-size="13" text-anchor="middle" font-weight="bold" fill="#222">C2 100 pF</text>
+<circle cx="820" cy="692" r="4" fill="#222"/>
+<line x1="820" y1="785" x2="820" y2="810.5" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="820" y1="854.5" x2="820" y2="880" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="812" y="810.5" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="834" y="836.5" font-size="13" text-anchor="start" font-weight="bold" fill="#222">100 Ω</text>
+<circle cx="820" cy="885" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="820" y="910" font-size="14" text-anchor="middle" font-weight="bold" fill="#8e2a20">TO SCOPE</text>
+<text x="820" y="927" font-size="11" text-anchor="middle" font-weight="normal" fill="#666">(scope GND → GND)</text>
+<text x="480" y="940" font-size="12" text-anchor="middle" font-weight="normal" fill="#666">Numbers in orange = NE5532 pin numbers.  Output ≈ ±1.65 V peak at full amplitude.</text>
+<rect x="15" y="975" width="930" height="350" rx="12" fill="#fff" stroke="#ccc"/>
+<text x="35" y="1005" font-size="18" text-anchor="start" font-weight="bold" fill="#222">C.  ±9 V supply from two 9 V batteries</text>
+<line x1="140" y1="1055" x2="140" y2="1090.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="140" y1="1110.0" x2="140" y2="1145" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="118" y1="1090.0" x2="162" y2="1090.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="128" y1="1098.0" x2="152" y2="1098.0" stroke="#222" stroke-width="5" stroke-linecap="round"/>
+<line x1="118" y1="1106.0" x2="162" y2="1106.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="128" y1="1114.0" x2="152" y2="1114.0" stroke="#222" stroke-width="5" stroke-linecap="round"/>
+<text x="110" y="1104.0" font-size="13" text-anchor="end" font-weight="bold" fill="#222">9 V #1</text>
+<text x="168" y="1090.0" font-size="14" text-anchor="start" font-weight="bold" fill="#222">+</text>
+<line x1="140" y1="1145" x2="140" y2="1180.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="140" y1="1200.0" x2="140" y2="1235" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="118" y1="1180.0" x2="162" y2="1180.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="128" y1="1188.0" x2="152" y2="1188.0" stroke="#222" stroke-width="5" stroke-linecap="round"/>
+<line x1="118" y1="1196.0" x2="162" y2="1196.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="128" y1="1204.0" x2="152" y2="1204.0" stroke="#222" stroke-width="5" stroke-linecap="round"/>
+<text x="110" y="1194.0" font-size="13" text-anchor="end" font-weight="bold" fill="#222">9 V #2</text>
+<text x="168" y="1180.0" font-size="14" text-anchor="start" font-weight="bold" fill="#222">+</text>
+<circle cx="140" cy="1145" r="4" fill="#222"/>
+<line x1="140" y1="1145" x2="230" y2="1145" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="230" y1="1145" x2="230" y2="1153" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="218" y1="1153" x2="242" y2="1153" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="223" y1="1158" x2="237" y2="1158" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="227" y1="1163" x2="233" y2="1163" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="250" y="1143" font-size="13" text-anchor="start" font-weight="bold" fill="#222">GND (0 V)</text>
+<line x1="140" y1="1055" x2="560" y2="1055" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="200" y="1047" font-size="14" text-anchor="middle" font-weight="bold" fill="#b5641a">+9 V</text>
+<line x1="140" y1="1235" x2="560" y2="1235" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="200" y="1253" font-size="14" text-anchor="middle" font-weight="bold" fill="#24528d">−9 V</text>
+<circle cx="380" cy="1055" r="4" fill="#222"/>
+<line x1="380" y1="1055" x2="380" y2="1081.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="380" y1="1089.0" x2="380" y2="1115" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="366" y1="1081.0" x2="394" y2="1081.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="366" y1="1089.0" x2="394" y2="1089.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="400" y="1090.0" font-size="13" text-anchor="start" font-weight="bold" fill="#222">100 nF</text>
+<line x1="380" y1="1115" x2="380" y2="1123" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="368" y1="1123" x2="392" y2="1123" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="373" y1="1128" x2="387" y2="1128" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="377" y1="1133" x2="383" y2="1133" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="470" cy="1055" r="4" fill="#222"/>
+<line x1="470" y1="1055" x2="470" y2="1081.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="470" y1="1089.0" x2="470" y2="1115" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="456" y1="1081.0" x2="484" y2="1081.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<path d="M456,1093.0 Q470,1087.0 484,1093.0" fill="none" stroke="#222" stroke-width="3"/>
+<text x="450" y="1077.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#222">+</text>
+<text x="490" y="1090.0" font-size="13" text-anchor="start" font-weight="bold" fill="#222">10 µF</text>
+<line x1="470" y1="1115" x2="470" y2="1123" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="458" y1="1123" x2="482" y2="1123" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="463" y1="1128" x2="477" y2="1128" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="467" y1="1133" x2="473" y2="1133" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="380" cy="1235" r="4" fill="#222"/>
+<line x1="380" y1="1235" x2="380" y2="1261" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="380" y1="1269" x2="380" y2="1295" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="366" y1="1261" x2="394" y2="1261" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="366" y1="1269" x2="394" y2="1269" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="400" y="1270" font-size="13" text-anchor="start" font-weight="bold" fill="#222">100 nF</text>
+<line x1="380" y1="1295" x2="380" y2="1303" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="368" y1="1303" x2="392" y2="1303" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="373" y1="1308" x2="387" y2="1308" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="377" y1="1313" x2="383" y2="1313" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="470" cy="1235" r="4" fill="#222"/>
+<line x1="470" y1="1235" x2="470" y2="1261" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="470" y1="1269" x2="470" y2="1295" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M456,1257 Q470,1263 484,1257" fill="none" stroke="#222" stroke-width="3"/>
+<line x1="456" y1="1269" x2="484" y2="1269" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="450" y="1285" font-size="14" text-anchor="middle" font-weight="bold" fill="#222">+</text>
+<text x="490" y="1270" font-size="13" text-anchor="start" font-weight="bold" fill="#222">10 µF</text>
+<line x1="470" y1="1295" x2="470" y2="1303" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="458" y1="1303" x2="482" y2="1303" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="463" y1="1308" x2="477" y2="1308" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="467" y1="1313" x2="473" y2="1313" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="560" y="1060" font-size="14" text-anchor="start" font-weight="bold" fill="#222">→ NE5532 pin 8</text>
+<text x="560" y="1240" font-size="14" text-anchor="start" font-weight="bold" fill="#222">→ NE5532 pin 4</text>
+<text x="700" y="1140" font-size="12" text-anchor="start" font-weight="normal" fill="#666">Caps as close to</text>
+<text x="700" y="1156" font-size="12" text-anchor="start" font-weight="normal" fill="#666">pins 8 and 4 as</text>
+<text x="700" y="1172" font-size="12" text-anchor="start" font-weight="normal" fill="#666">possible.</text>
+<rect x="15" y="1345" width="930" height="300" rx="12" fill="#fff" stroke="#ccc"/>
+<text x="35" y="1375" font-size="18" text-anchor="start" font-weight="bold" fill="#222">D.  Sensor pots → XADC (build 4 of these)</text>
+<text x="200" y="1410" font-size="13" text-anchor="middle" font-weight="bold" fill="#b5641a">+3.3 V (FPGA board)</text>
+<line x1="200" y1="1415" x2="200" y2="1433.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="200" y1="1477.0" x2="200" y2="1495" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="192" y="1433.0" width="16" height="44" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<text x="186" y="1459.0" font-size="13" text-anchor="end" font-weight="bold" fill="#222">22 kΩ</text>
+<line x1="200" y1="1495" x2="200" y2="1520" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="192" y="1520" width="16" height="50" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<line x1="200" y1="1570" x2="200" y2="1595" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="184" y="1549" font-size="13" text-anchor="end" font-weight="bold" fill="#222">10 kΩ pot</text>
+<text x="184" y="1564" font-size="11" text-anchor="end" font-weight="normal" fill="#666">(B10K)</text>
+<polygon points="214,1545 226,1539 226,1551" fill="#222"/>
+<line x1="226" y1="1545" x2="360" y2="1545" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="360" cy="1545" r="4" fill="#222"/>
+<text x="240" y="1537" font-size="11" text-anchor="start" font-weight="normal" fill="#666">wiper</text>
+<line x1="200" y1="1595" x2="200" y2="1603" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="188" y1="1603" x2="212" y2="1603" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="193" y1="1608" x2="207" y2="1608" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="197" y1="1613" x2="203" y2="1613" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="360" y1="1545" x2="360" y2="1576.0" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="360" y1="1584.0" x2="360" y2="1615" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="346" y1="1576.0" x2="374" y2="1576.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<line x1="346" y1="1584.0" x2="374" y2="1584.0" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+<text x="380" y="1585.0" font-size="13" text-anchor="start" font-weight="bold" fill="#222">10 nF</text>
+<line x1="360" y1="1615" x2="360" y2="1623" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="348" y1="1623" x2="372" y2="1623" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="353" y1="1628" x2="367" y2="1628" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="357" y1="1633" x2="363" y2="1633" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="360" y1="1545" x2="470" y2="1545" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="475" cy="1545" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="485" y="1550" font-size="14" text-anchor="start" font-weight="bold" fill="#8e2a20">VAUXP[n]</text>
+<circle cx="475" cy="1595" r="5" fill="#fff" stroke="#8e2a20" stroke-width="2.5"/>
+<text x="485" y="1600" font-size="14" text-anchor="start" font-weight="bold" fill="#8e2a20">VAUXN[n]</text>
+<line x1="470" y1="1595" x2="440" y2="1595" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="440" y1="1595" x2="440" y2="1603" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="428" y1="1603" x2="452" y2="1603" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="433" y1="1608" x2="447" y2="1608" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="437" y1="1613" x2="443" y2="1613" stroke="#222" stroke-width="2.2" stroke-linecap="round"/>
+<text x="680" y="1425" font-size="13" text-anchor="start" font-weight="bold" fill="#222">Default channel map (edge_top):</text>
+<text x="680" y="1451" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Depth  →  VAUX0</text>
+<text x="680" y="1473" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Turbidity  →  VAUX1</text>
+<text x="680" y="1495" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Temperature  →  VAUX2</text>
+<text x="680" y="1517" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Salinity  →  VAUX3</text>
+<text x="680" y="1551" font-size="12" text-anchor="start" font-weight="normal" fill="#666">Wiper range 0 … ~1.03 V</text>
+<text x="680" y="1569" font-size="12" text-anchor="start" font-weight="normal" fill="#666">Check which header pins are</text>
+<text x="680" y="1585" font-size="12" text-anchor="start" font-weight="normal" fill="#666">ADxxP/ADxxN on the schematic.</text>
+<rect x="15" y="1665" width="930" height="90" rx="12" fill="#fff" stroke="#ccc"/>
+<text x="35" y="1695" font-size="18" text-anchor="start" font-weight="bold" fill="#222">E.  Other connections</text>
+<text x="35" y="1723" font-size="13" text-anchor="start" font-weight="normal" fill="#222">scope_trig → scope EXT TRIG (trigger on rising edge)   •   amp_en → leave unconnected for now   •   FPGA GND ↔ battery GND ↔ scope GND</text>
+</svg>

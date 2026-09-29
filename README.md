@@ -217,14 +217,4 @@ No environment variables are needed. The design is configured through Verilog pa
 
 ---
 
-## 9. References
-
-1. R. E. Francois & G. R. Garrison, "Sound absorption based on ocean measurements, Part II," *J. Acoust. Soc. Am.*, vol. 72, 1982.
-2. H. Medwin, "Speed of sound in water: a simple equation for realistic parameters," *J. Acoust. Soc. Am.*, vol. 58, 1975.
-3. F. J. Harris, "On the use of windows for harmonic analysis with the discrete Fourier transform," *Proc. IEEE*, vol. 66, 1978.
-4. R. H. Barker, "Group synchronizing of binary digital systems," *Communication Theory*, 1953.
-5. Xilinx, *7 Series FPGAs XADC User Guide (UG480)* and *Artix-7 Data Sheet (DS181)*.
-
----
-
 **Team Hermes** · SIH 2026 · PS SIH26058
